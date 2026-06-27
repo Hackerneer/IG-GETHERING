@@ -1,6 +1,5 @@
 <div align="center">
 
-![Tool Demo](images/IMG_20260628_010939.jpg
 
 # 🚀 Instagram Tool - Hacker Neer
 
