@@ -44,8 +44,7 @@ pkg install curl jq -y
 
 ```
 ```
-curl -L -o igtool.sh https://raw.githubusercontent.com/YOUR-USERNAME/instagram-tool/main/igtool.sh
-
+git clone https://github.com/Hackerneer/IG-GETHERING.git
 ```
 ```
 chmod +x igtool.sh
