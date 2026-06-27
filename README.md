@@ -39,13 +39,17 @@
 pkg update && pkg upgrade -y
 
 ```
+```
 pkg install curl jq -y
 
+```
 ```
 curl -L -o igtool.sh https://raw.githubusercontent.com/YOUR-USERNAME/instagram-tool/main/igtool.sh
 
 ```
+```
 chmod +x igtool.sh
 
+```
 ```
 bash igtool.sh
