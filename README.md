@@ -47,7 +47,7 @@ pkg install curl jq -y
 git clone https://github.com/Hackerneer/IG-GETHERING.git
 ```
 ```
-chmod +x igtool.sh
+cd igtool
 
 ```
 ```
