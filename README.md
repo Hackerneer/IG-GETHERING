@@ -40,7 +40,7 @@ pkg update && pkg upgrade -y
 
 ```
 ```
-pkg install curl jq -y
+pkg install git curl jq -y
 
 ```
 ```
@@ -51,4 +51,9 @@ cd IG-GETHERING
 
 ```
 ```
-bash IG-GETHERING.sh
+
+chmod +x igtool.sh
+
+```
+```
+bash igtool.sh
