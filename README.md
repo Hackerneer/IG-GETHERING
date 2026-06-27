@@ -51,4 +51,4 @@ cd IG-GETHERING
 
 ```
 ```
-bash IG-GETHERING.sh
+bash IG-GETHERING.py
