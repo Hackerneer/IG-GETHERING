@@ -51,4 +51,4 @@ cd IG-GETHERING
 
 ```
 ```
-bash igtool.sh
+bash IG-GETHERING.sh
